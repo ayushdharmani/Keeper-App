@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ayushdharmani/flightApp.git/static/css/main.551816ac.css",
-    "main.js": "/ayushdharmani/flightApp.git/static/js/main.105a4f97.js",
-    "index.html": "/ayushdharmani/flightApp.git/index.html",
-    "main.551816ac.css.map": "/ayushdharmani/flightApp.git/static/css/main.551816ac.css.map",
-    "main.105a4f97.js.map": "/ayushdharmani/flightApp.git/static/js/main.105a4f97.js.map"
+    "main.css": "/flightApp/static/css/main.551816ac.css",
+    "main.js": "/flightApp/static/js/main.d4f38ed7.js",
+    "index.html": "/flightApp/index.html",
+    "main.551816ac.css.map": "/flightApp/static/css/main.551816ac.css.map",
+    "main.d4f38ed7.js.map": "/flightApp/static/js/main.d4f38ed7.js.map"
   },
   "entrypoints": [
     "static/css/main.551816ac.css",
-    "static/js/main.105a4f97.js"
+    "static/js/main.d4f38ed7.js"
   ]
 }
