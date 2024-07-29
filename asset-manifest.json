@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ayushdharmani/flightStatusApp.git/static/css/main.551816ac.css",
+    "main.js": "/ayushdharmani/flightStatusApp.git/static/js/main.2db0d325.js",
+    "index.html": "/ayushdharmani/flightStatusApp.git/index.html",
+    "main.551816ac.css.map": "/ayushdharmani/flightStatusApp.git/static/css/main.551816ac.css.map",
+    "main.2db0d325.js.map": "/ayushdharmani/flightStatusApp.git/static/js/main.2db0d325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.551816ac.css",
+    "static/js/main.2db0d325.js"
+  ]
+}
